@@ -3,12 +3,12 @@
 
 
 ## 🎩 I'm currently...
-- 🏫 Seoul Women's University, Major in Data Science & Artificial Intelligence Basic Mathematics. Undergraduate. Sophomore
+- 🏫 Seoul Women's University, Major in Data Science & Artificial Intelligence Basic Mathematics. Undergraduate. Junior
 
 - 🤔 **interested in**
-   - Machine Learning / Deep Learning
    - Artificial General Intelligence
    - Computer Vision
+   - LLM (Large Language Model)
    - Medical AI
    - Recommendation System
 
