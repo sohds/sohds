@@ -4,13 +4,16 @@
 
 ## 🎩 I'm currently...
 - 🏫 Seoul Women's University, Major in Data Science & Artificial Intelligence Basic Mathematics. Undergraduate. Junior
+- 👩‍💻 Undergraduate Research Assistant, Information and Management Lab.(IMLab), Seoul Women's University
 
 - 🤔 **interested in**
    - Artificial General Intelligence
    - Computer Vision
+   - Recommendation System
    - LLM (Large Language Model)
    - Medical AI
-   - Recommendation System
+   - Reinforcement Learning
+   
 
 <br>
 
@@ -26,6 +29,6 @@
 <br>
 
 ## 🎖️ Git Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohds&show_icons=true&theme=radical) 
+![sohds's GitHub stats](https://github-readme-stats.vercel.app/api?username=sohds&show_icons=true&theme=radical) 
 
 <br>
