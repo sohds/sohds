@@ -1,5 +1,4 @@
 # welcome to sunbun's github 🌞
-<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsohds&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a>
 
 
 ## 🎩 I'm currently...
@@ -7,12 +6,9 @@
 - 👩‍💻 Undergraduate Research Assistant, Information and Management Lab.(IMLab), Seoul Women's University
 
 - 🤔 **interested in**
-   - Artificial General Intelligence
-   - Computer Vision
-   - Recommendation System
    - LLM (Large Language Model)
    - Medical AI
-   - Reinforcement Learning
+   - Knowledge Graph
    
 
 <br>
