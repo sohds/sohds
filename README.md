@@ -4,11 +4,13 @@
 ## 🎩 I'm currently...
 - 🏫 Seoul Women's University, Major in Data Science & Artificial Intelligence Basic Mathematics. Undergraduate. Junior
 - 👩‍💻 Undergraduate Research Assistant, Information and Management Lab.(IMLab), Seoul Women's University
+- 🤓 Member of Team deep daiv. (23.07 - 24.10)
 
 - 🤔 **interested in**
    - LLM (Large Language Model)
    - Medical AI
-   - Knowledge Graph
+   - Knowledge Distillation
+   - Self-Supervised Learning
    
 
 <br>
