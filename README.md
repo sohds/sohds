@@ -1,16 +1,12 @@
-- welcome to sunbun's github 🙌
+- sunbun's github 🙌
 ---
-## 🎩 I'm currently...
-### 👩‍💻 Status
--  Undergraduate Research Assistant, Information and Management Lab.(IMLab), Seoul Women's University (24.04 - )
+### 👧 Appointment
+-  Undergraduate Research Assistant, Information and Management Lab.(IMLab), Seoul Women's University (24.04 - 24.11)
 -  Member of Team deep daiv. (23.07 - )
 
 ### 🤔 Interested in
 - LLM (Large Language Model)
 - CV (Computer Vision)
-- Medical AI
-- Knowledge Distillation
-- Explainable AI
    
 
 <br>
