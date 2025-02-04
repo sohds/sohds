@@ -2,7 +2,7 @@
 ---
 ### 👧 Appointment
 -  Undergraduate Research Assistant, Information and Management Lab.(IMLab), Seoul Women's University (24.04 - 24.11)
--  Member of Team deep daiv. (23.07 - )
+-  Member of Team deep daiv. (23.07 - 25.01)
 
 ### 🤔 Interested in
 - LLM (Large Language Model)
@@ -15,9 +15,9 @@
 ### 🏃 Work in Progress
 - 🔎...
 ### 🔬 Under Review
-- "Grad-CAM++와 Activation Map을 활용한 한국인 여성 중심 딥페이크 탐지 특징 분석", submitted to HCI KOREA 2025 학술대회
+- "Grad-CAM++와 Activation Map을 활용한 한국인 여성 중심 딥페이크 탐지 특징 분석", accepted HCI KOREA 2025.
 ### 🗞️ Conference Paper
-- "환자 메타데이터를 활용한 호흡 및 음성 소리의 대조 학습을 통한 SARS-CoV-2 양음성 및 중증도 진단", 2024년도 대한전자공학회 추계학술대회, 2024.11.22
+- _오서연_, 김다영, 김예린. (2024). 환자 메타데이터를 활용한 호흡 및 음성 소리의 대조 학습을 통한 SARS-CoV-2 양음성 및 중증도 진단. 대한전자공학회 학술대회, 665 - 669.
 
 <br>
 
