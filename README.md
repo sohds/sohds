@@ -55,7 +55,7 @@
 <h4>🗞️ Conference Paper</h4>
 <ul>
     <li><em>오서연</em>, 김다영, 김예린*. (2024). <a href="https://www.dbpia.co.kr/journal/articleDetail?nodeId=NODE12036324">환자 메타데이터를 활용한 호흡 및 음성 소리의 대조 학습을 통한 SARS-CoV-2 양음성 및 중증도 진단</a>. 대한전자공학회 학술대회, 665 - 669.</li>
-    <li>김규리, 김세인, <em>오서연</em>, 조유라, 최다예, 최덕우, 최예림*, (2025). Grad-CAM++와 Activation Map을 활용한 한국인 여성 중심 딥페이크 탐지 특징 분석. 한국 HCI 학회 학술대회, 1187 - 1192.</li>
+    <li>김규리, 김세인, <em>오서연</em>, 조유라, 최다예, 최덕우, 최예림*, (2025). <a href="https://www.dbpia.co.kr/Journal/articleDetail?nodeId=NODE12131642">Grad-CAM++와 Activation Map을 활용한 한국인 여성 중심 딥페이크 탐지 특징 분석</a>. 한국 HCI 학회 학술대회, 1187 - 1192.</li>
 </ul>
 
 <hr>
