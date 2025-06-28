@@ -38,7 +38,8 @@
 
 <h3>👧 Appointment</h3>
 <ul>
-    <li><a href="https://imlab.ewha.ac.kr/alumni#h.a9nymwfsd0it">Undergraduate Research Assistant, Information and Management Lab.(IMLab)</a>, Seoul Women's University (24.04 - 24.11)</li>
+    <li>Undergraduate Research Assistant, <a href="https://imlab.ewha.ac.kr/members#h.tjv4hdmrlfie">Information and Management Lab.(IMLab)</a>, Ewha Womans University (25.06 - Present)</li>
+    <li>Undergraduate Research Assistant, Information and Management Lab.(IMLab), Seoul Women's University (24.04 - 24.11)</li>
     <li>Member of Team deep daiv. (23.07 - 25.01)</li>
 </ul>
 
