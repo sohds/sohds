@@ -40,6 +40,7 @@
 <ul>
     <li>Undergraduate Research Assistant, <a href="https://imlab.ewha.ac.kr/members#h.tjv4hdmrlfie">Information and Management Lab.(IMLab)</a>, Ewha Womans University (24.04 - 24.11, 25.06 - 25.08)</li>
     <li>Member of Team deep daiv. (23.07 - 25.01)</li>
+    <li>Member of Team BITAmin (26.01 - 27.01)</li>
 </ul>
 
 <hr>
@@ -68,9 +69,3 @@
 </ul>
 
 <hr>
-
-<h3>🎖️ Git Stats</h3>
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=sohds&show_icons=true&theme=radical" alt="sohds's GitHub stats">
-</div>
-<br>
