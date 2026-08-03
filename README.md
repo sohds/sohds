@@ -5,11 +5,10 @@
 <div align="center">
 <h4>🤔 Interested in</h4>
    <img src="https://img.shields.io/badge/AI-Large%20Language%20Model-blue">
-   <img src="https://img.shields.io/badge/AI-Computer%20Vision-blue">
    <img src="https://img.shields.io/badge/AI-Explainable%20AI-blue">
    <br>
    <img src="https://img.shields.io/badge/AI-Reinforcement%20Learning-blue">
-   <img src="https://img.shields.io/badge/AI-Contrastive%20Learning-blue">
+   <img src="https://img.shields.io/badge/AI-AX%20Engineering-blue">
 </div>
 
 <div align="center">
@@ -40,7 +39,8 @@
 <ul>
     <li>Undergraduate Research Assistant, <a href="https://imlab.ewha.ac.kr/members#h.tjv4hdmrlfie">Information and Management Lab.(IMLab)</a>, Ewha Womans University (24.04 - 24.11, 25.06 - 25.08)</li>
     <li>Member of Team deep daiv. (23.07 - 25.01)</li>
-    <li>Member of Team BITAmin (26.01 - 27.01)</li>
+    <li>Member of Team BITAmin (26.01 - 26.07)</li>
+    <li>Intern, KDB Bank (26.06 - 26.08)</li>
 </ul>
 
 <hr>
@@ -66,6 +66,11 @@
 <ul>
     <li><a href="https://swedubiz.cafe24.com/%EC%95%8C%EB%A6%BC%C2%B7%EC%86%8C%EC%8B%9D/%EA%B3%B5%EC%A7%80%EC%82%AC%ED%95%AD/?uid=1268&mod=document&pageid=1">2023 여름방학 서울여자대학교 GURU2 Android 해커톤 장려상 (팀: 베지비전)</a></li>
     <li><a href="http://challenge.gcontest.co.kr/template/m/frame/boardview/12709?boardSeq=904">2023 자율주행 인공지능 알고리즘 개발 챌린지 장려상 (팀: 아이들)</a></li>
+</ul>
+
+<h4>👵🏻 Senior</h4>
+<ul>
+    <li>2026 FIN:NECT 챌린지 입선(팀)</li>
 </ul>
 
 <hr>
